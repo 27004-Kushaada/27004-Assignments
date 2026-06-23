@@ -15,6 +15,7 @@
 		<Item Name="Assignment1" Type="Folder">
 			<Item Name="Assignment1_1.vi" Type="VI" URL="../Assignment1_1.vi"/>
 			<Item Name="Assignment1_2.vi" Type="VI" URL="../Assignment1_2.vi"/>
+			<Item Name="Assignment1_3.vi" Type="VI" URL="../Assignment1_3.vi"/>
 			<Item Name="SubVI_Factorial.vi" Type="VI" URL="../SubVI_Factorial.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
