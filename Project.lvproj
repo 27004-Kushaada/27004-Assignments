@@ -15,6 +15,7 @@
 		<Item Name="Assignment2" Type="Folder">
 			<Item Name="SubVI" Type="Folder">
 				<Item Name="Is_Device_Functional.vi" Type="VI" URL="../Assignment2/SubVI/Is_Device_Functional.vi"/>
+				<Item Name="STOP_WATCH.vi" Type="VI" URL="../Assignment2/SubVI/STOP_WATCH.vi"/>
 			</Item>
 			<Item Name="Typedef" Type="Folder">
 				<Item Name="Cluster1.ctl" Type="VI" URL="../Assignment2/TypeDef/Cluster1.ctl"/>
