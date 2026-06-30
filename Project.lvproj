@@ -14,7 +14,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Assignment3" Type="Folder">
 			<Item Name="Assignment3_1.vi" Type="VI" URL="../Assignment3/Assignment3_1.vi"/>
+			<Item Name="Assignment3_2.vi" Type="VI" URL="../Assignment3/Assignment3_2.vi"/>
 		</Item>
+		<Item Name="States.ctl" Type="VI" URL="../Assignment3/TypeDef/States.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
