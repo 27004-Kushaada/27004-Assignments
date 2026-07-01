@@ -12,11 +12,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Assignment1" Type="Folder">
-			<Item Name="Assignment1_1.vi" Type="VI" URL="../Assignment1_1.vi"/>
-			<Item Name="Assignment1_2.vi" Type="VI" URL="../Assignment1_2.vi"/>
-			<Item Name="Assignment1_3.vi" Type="VI" URL="../Assignment1_3.vi"/>
-			<Item Name="SubVI_Factorial.vi" Type="VI" URL="../SubVI_Factorial.vi"/>
+		<Item Name="Assignment2" Type="Folder" URL="..">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
